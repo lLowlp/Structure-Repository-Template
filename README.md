@@ -3,9 +3,11 @@ This will help yall make yall own repository's to help move commands and structu
 
 Go to my Youtube to learn more @Uyuee on youtube. 
 
- - But the first thing you want to do is download the template file
+ - But the first thing you want to do is download the Structure Repository Template.zip file
 
- - once you download the template open Template/structures inside the structures is where you put the .mcstructure's at
+ - open zip file and extract to desktop or wherevery you want so you can only have the folder file.
+
+ - once you have the folder for the Template open Template/structures inside the structures is where you put the .mcstructure's at
 
  - to be able to make a .mcstructure file you will have to export an structure block onto an file which will be a mcstructure file
  
